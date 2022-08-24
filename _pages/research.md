@@ -1,8 +1,7 @@
 ---
-author_profile: true
+permalink: /research/
+title: "Research"
 ---
-
-# Research
 
 My research is focused on learning how supermassive black holes have evolved and interacted with their host galaxies over cosmic time. In particular, I'm interested in the dynamics of stars within these galaxies, what stellar motions can tell us about the distribution of mass within these galaxies, and how these stellar orbits interact with central black holes and binaries. Much of my PhD research has been focused on using stellar dynamical modeling to measure supermassive black hole masses in triaxial galaxies.
 

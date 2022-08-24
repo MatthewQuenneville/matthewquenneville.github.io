@@ -1,4 +1,7 @@
-# Resume and Curriculum Vitae
+---
+permalink: /cv/
+title: "Resume and CV"
+---
 
 - Download my resume [here](assets/Resume.pdf). (last updated August 2022)
 - Download my academic CV [here](assets/CV.pdf). (last updated August 2022)
