@@ -79,7 +79,7 @@ author:
       url: "https://orcid.org/0000-0002-6148-5481"
     - label: "Resume"
       icon: "fab fa-fw fa-file"
-      url: "assets/resume.pdf"
+      url: "Resume.pdf"
 
 footer:
   links:
@@ -100,7 +100,7 @@ footer:
       url: "https://orcid.org/0000-0002-6148-5481"
     - label: "Resume"
       icon: "fab fa-fw fa-file"
-      url: "assets/resume.pdf"
+      url: "Resume.pdf"
 
 
 defaults:
