@@ -5,3 +5,5 @@ main:
     url: /research/
   - title: "Resume and CV"
     url: /cv/
+  - title: "Posts"
+    url: /tags/
