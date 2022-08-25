@@ -5,6 +5,7 @@ categories:
   - blog
 tags:
   - physics
+  - astrophysics
   - python
   - statistical mechanics
 ---
@@ -19,4 +20,4 @@ This is demonstrated in the movie below. The atoms all start in the blue (ground
    </video>
 </div>
 
-The code for generating this animation is available on my Github [here](https://github.com/MatthewQuenneville/collisional-excitations).
+The code for generating this animation is available on my Github [here](https://github.com/MatthewQuenneville/collisional-excitations). I originally wrote this code for an assignment in Astronomy C207 (Radiation Processes in Astronomy). Atoms that were excited via collisional excitations can de-excite via radiation, resulting in radiation of photons with energies set by the energy gap between atomic states. This radiation is useful in astronomy for measuring density and temperature in planetary nebulae.

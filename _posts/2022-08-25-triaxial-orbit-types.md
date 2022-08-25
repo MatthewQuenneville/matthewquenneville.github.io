@@ -6,11 +6,10 @@ categories:
 tags:
   - astrophysics
   - physics
-  - python
   - galaxies
 ---
 
-In most cases, it isn't possible to solve for orbit trajectories within a galaxy analytically. It is possible in one specific type of model, known as a Stackel potential. Stackel potentials are useful for this reason, since they give us an idea of the types of orbits that will exist in other more realistic galaxy models.
+Much of the research that I have done during my PhD has been focused on measuring the shape of galaxies. In order to do this, we need to understand how stars move within galaxies of a given shape. For galaxies that aren't higly symmetric, it isn't possible to solve for orbit trajectories. Stackel potentials are a class of models which are triaxial (ie. not rotationally symmetric about any axis), but with relatively simple orbital dynamics. Stackel potentials are useful since they give us an idea of the types of orbits that will exist in other more realistic galaxy models.
 
 The orbits within a Stackel potential belong to four distinct families.
 
