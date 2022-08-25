@@ -74,6 +74,12 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/mquenneville"
+    - label: "Orcid"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-6148-5481"
+    - label: "Resume"
+      icon: "fab fa-fw fa-file"
+      url: "assets/resume.pdf"
 
 footer:
   links:
@@ -92,7 +98,7 @@ footer:
     - label: "Orcid"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-6148-5481"
-    -label: "Resume"
+    - label: "Resume"
       icon: "fab fa-fw fa-file"
       url: "assets/resume.pdf"
 
