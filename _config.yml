@@ -67,13 +67,13 @@ author:
       url: "https://mattq.ca"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mattq1@gmail.com"
+      url: "mailto:mattq1@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/MatthewQuenneville"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: " www.linkedin.com/in/mquenneville"
+      url: "https://linkedin.com/in/mquenneville"
 
 footer:
   links:
