@@ -62,9 +62,6 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Physics PhD Candidate"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://mattq.ca"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:mattq1@gmail.com"
@@ -78,14 +75,11 @@ author:
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-6148-5481"
     - label: "Resume"
-      icon: "fab fa-fw fa-file"
-      url: "Resume.pdf"
+      icon: "fab fa-fw fa-download"
+      url: "/assets/Resume.pdf"
 
 footer:
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://mattq.ca"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mattq1@gmail.com"
@@ -99,8 +93,8 @@ footer:
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-6148-5481"
     - label: "Resume"
-      icon: "fab fa-fw fa-file"
-      url: "Resume.pdf"
+      icon: "fab fa-fw fa-link"
+      url: "/assets/Resume.pdf"
 
 
 defaults:
