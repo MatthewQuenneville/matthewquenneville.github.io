@@ -1,28 +1,16 @@
 ---
-permalink: /cv/
-title: "Resume and CV"
+permalink: /resume/
+title: "Resume"
 ---
 
-- Download my resume [here](/assets/Resume.pdf). (last updated September 2022)
-- Download my academic CV [here](/assets/CV.pdf). (last updated August 2022)
-
-- **PhD Physics**, University of California, Berkeley
-  - *Graduated*: August 2022
-  - *Advisor*: Chung-Pei Ma  
-  - *Thesis*: Dynamics and Shapes of Galaxies: Orbit Modeling of Triaxial Galaxies Hosting Supermassive Black Holes
-
-- **BSc Honours Mathematical Physics**, Simon Fraser University
-  - *Graduated*: June 2016
-  - *Advisor*: David Sivak  
-  - *Thesis*: Energy Dissipation and Information Flow in Coupled Markovian Systems
+- Download my resume [here](/assets/Resume.pdf). (last updated October 2022)
 
 ***
 
-# Publications
+## Publications
 
-View them on [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/G3ch5VmKRPa05UiaCJPE_g), [ORCID](https://orcid.org/0000-0002-6148-5481), or [Google Scholar](https://scholar.google.com/citations?user=w9F3FjMAAAAJ&hl=en).
+- View them on [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/G3ch5VmKRPa05UiaCJPE_g), [ORCID](https://orcid.org/0000-0002-6148-5481), or [Google Scholar](https://scholar.google.com/citations?user=w9F3FjMAAAAJ&hl=en).
 
-## Peer-reviewed Publications
 1. M. Gu, J. E. Greene, A. B. Newman, C. Kreisch, **M. E. Quenneville**, C.-P. Ma, and J. P. Blakeslee (2022). *The MASSIVE Survey XVI. The Stellar Initial Mass Function in the Center of Massive Early Type Galaxies*. The Astrophysical Journal 932 (2), 103.
 ([abstract](https://ui.adsabs.harvard.edu/abs/2021arXiv211011985G/abstract)/[journal](https://iopscience.iop.org/article/10.3847/1538-4357/ac69ea))
 2. J. D. Pilawa, C. M. Liepold, S. C. Delgado Andrade, J. L. Walsh, C.-P. Ma, **M. E. Quenneville**, J. E. Greene, and J. P. Blakeslee (2022). *The MASSIVE Survey - XVII. A Triaxial Orbit-based Determination of the Black Hole Mass and Intrinsic Shape of Elliptical Galaxy NGC 2693*. The Astrophysical Journal 928 (2), 178.
