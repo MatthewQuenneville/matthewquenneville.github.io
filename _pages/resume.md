@@ -3,7 +3,7 @@ permalink: /resume/
 title: "Resume"
 ---
 
-- Download my resume [here](/assets/Resume.pdf). (last updated October 2022)
+- Download my resume [here](/assets/Resume.pdf). (last updated December 2022)
 
 ***
 
