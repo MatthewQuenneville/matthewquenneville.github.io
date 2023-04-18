@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Matthew Quenneville"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Recent Physics PhD Graduate &#124; Data Science"
+  bio    : "Data Scientist"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
