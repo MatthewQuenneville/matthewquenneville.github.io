@@ -1,14 +1,7 @@
 ---
-permalink: /resume/
-title: "Resume"
+permalink: /publications/
+title: "Publications"
 ---
-
-- Download my resume [here](/assets/Resume.pdf). (last updated December 2022)
-
-***
-
-## Publications
-
 - View them on [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/G3ch5VmKRPa05UiaCJPE_g), [ORCID](https://orcid.org/0000-0002-6148-5481), or [Google Scholar](https://scholar.google.com/citations?user=w9F3FjMAAAAJ&hl=en).
 
 1. M. Gu, J. E. Greene, A. B. Newman, C. Kreisch, **M. E. Quenneville**, C.-P. Ma, and J. P. Blakeslee (2022). *The MASSIVE Survey XVI. The Stellar Initial Mass Function in the Center of Massive Early Type Galaxies*. The Astrophysical Journal 932 (2), 103.

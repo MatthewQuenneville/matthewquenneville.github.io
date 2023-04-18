@@ -74,9 +74,6 @@ author:
     - label: "Orcid"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-6148-5481"
-    - label: "Resume"
-      icon: "fas fa-fw fa-file"
-      url: "/assets/Resume.pdf"
 
 footer:
   links:
@@ -92,10 +89,6 @@ footer:
     - label: "Orcid"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-6148-5481"
-    - label: "Resume"
-      icon: "fas fa-fw fa-file"
-      url: "/assets/Resume.pdf"
-
 
 defaults:
   # _posts
