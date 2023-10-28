@@ -34,7 +34,7 @@ Many real galaxies show clear deviations from axisymmetry. This suggests that tr
 <span style="font-size:0.75em;">Key topics:</span>\
 <span style="font-size:0.75em;"><i>Simulated data, Model validation, Orbital Dynamics, Supermassive black holes</i></span>
 
-Fully triaxial modelling leads to many complexities that aren't present for axisymmetric models. Because of this, triaxial modelling codes are sometimes used to perform "nearly" axisymmetric modelling. However, some previous papers have shown significant inconsistencies by doing this. In this paper, we show how to efectively use a triaxial orbit code in the axisymmetric limit. We also show that we can accurately recover the central black hole mass in mock data.  
+Fully triaxial modelling leads to many complexities that aren't present for axisymmetric models. Because of this, triaxial modelling codes are sometimes used to perform "nearly" axisymmetric modelling. However, some previous papers have shown significant inconsistencies by doing this. In this paper, we show how to effectively use a triaxial orbit code in the axisymmetric limit. We also show that we can accurately recover the central black hole mass in mock data.  
 
 [<img src="/assets/images/mock_realizations.png" width="600">](https://doi.org/10.3847/1538-4365/abe6a0)
 
