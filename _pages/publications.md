@@ -1,11 +1,11 @@
 ---
 permalink: /publications/
-title: "Publications"
+title: "Peer-reviewed Publications"
 ---
-- View them on [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/G3ch5VmKRPa05UiaCJPE_g), [ORCID](https://orcid.org/0000-0002-6148-5481), or [Google Scholar](https://scholar.google.com/citations?user=w9F3FjMAAAAJ&hl=en).
+- View my publications on [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/G3ch5VmKRPa05UiaCJPE_g), [ORCID](https://orcid.org/0000-0002-6148-5481), or [Google Scholar](https://scholar.google.com/citations?user=w9F3FjMAAAAJ&hl=en).
 
-1. **M. E. Quenneville**, J. P. Blakeslee, C.-P. Ma, J. E. Green, S. D. J. Gwyn, S. Ciccone, and B. Nyiri (2023). *The MASSIVE Survey. XVIII. Deep Wide-Field K-band Photometry and Local Scaling Relations for Massive Early-Type Galaxies*. Monthly Notices of the Royal Astronomical Society - In Press.
-([abstract](https://ui.adsabs.harvard.edu/abs/2022arXiv221008043Q/abstract))
+1. **M. E. Quenneville**, J. P. Blakeslee, C.-P. Ma, J. E. Green, S. D. J. Gwyn, S. Ciccone, and B. Nyiri (2023). *The MASSIVE Survey. XVIII. Deep Wide-Field K-band Photometry and Local Scaling Relations for Massive Early-Type Galaxies*. Monthly Notices of the Royal Astronomical Society stad3137.
+([abstract](https://ui.adsabs.harvard.edu/abs/2022arXiv221008043Q/abstract)/[journal](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stad3137/7326000))
 2. M. Gu, J. E. Greene, A. B. Newman, C. Kreisch, **M. E. Quenneville**, C.-P. Ma, and J. P. Blakeslee (2022). *The MASSIVE Survey XVI. The Stellar Initial Mass Function in the Center of Massive Early Type Galaxies*. The Astrophysical Journal 932 (2), 103.
 ([abstract](https://ui.adsabs.harvard.edu/abs/2021arXiv211011985G/abstract)/[journal](https://iopscience.iop.org/article/10.3847/1538-4357/ac69ea))
 3. J. D. Pilawa, C. M. Liepold, S. C. Delgado Andrade, J. L. Walsh, C.-P. Ma, **M. E. Quenneville**, J. E. Greene, and J. P. Blakeslee (2022). *The MASSIVE Survey - XVII. A Triaxial Orbit-based Determination of the Black Hole Mass and Intrinsic Shape of Elliptical Galaxy NGC 2693*. The Astrophysical Journal 928 (2), 178.

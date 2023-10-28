@@ -71,10 +71,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/mquenneville"
-    - label: "Orcid"
-      icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/0000-0002-6148-5481"
-
 footer:
   links:
     - label: "Email"
@@ -86,9 +82,6 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: " https://linkedin.com/in/mquenneville"
-    - label: "Orcid"
-      icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/0000-0002-6148-5481"
 
 defaults:
   # _posts
