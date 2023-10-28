@@ -7,7 +7,7 @@ I'm a data scientist and researcher who is passionate about applying machine lea
 
 ***
 
-### Image Processing and Galaxy Scaling Relations
+### Image processing and galaxy scaling relations
 <span style="font-size:0.75em;">[Quenneville et al. 2023, MNRAS stad3137](https://doi.org/10.1093/mnras/stad3137)</span>\
 <span style="font-size:0.75em;">Key topics:</span>\
 <span style="font-size:0.75em;"><i>Image Processing, Bayesian Inference, Linear Regression, Galaxy Formation</i></span>
@@ -18,7 +18,7 @@ By measuring the present-day properties of galaxy populations, we can make infer
 
 ***
 
-### Triaxial Orbit Modelling
+### Surrogate optimization for triaxial orbit modelling
 <span style="font-size:0.75em;">[Quenneville et al. 2022, ApJ 926 (1), 30](https://doi.org/10.3847/1538-4357/ac3e68)</span>\
 <span style="font-size:0.75em;">Key topics:</span>\
 <span style="font-size:0.75em;"><i>Gaussian Process Regression, 3D Reconstruction, Optimization, Surrogate Models</i></span>
@@ -29,7 +29,7 @@ Many real galaxies show clear deviations from axisymmetry. This suggests that tr
 
 ***
 
-### Do triaxial models work in the axisymmetric limit?
+### Model validation with simulated axisymmetric galaxies
 <span style="font-size:0.75em;">[Quenneville et al. 2021, ApJS 254 (2), 25](https://doi.org/10.3847/1538-4365/abe6a0)</span>\
 <span style="font-size:0.75em;">Key topics:</span>\
 <span style="font-size:0.75em;"><i>Simulated data, Model validation, Orbital Dynamics, Supermassive black holes</i></span>
@@ -51,7 +51,7 @@ NGC 1453 is a nearby massive elliptical galaxy. It rotates quickly and the rotat
 
 ***
 
-### Model prediction and Energetic Efficiency
+### Model prediction and energetic efficiency
 <span style="font-size:0.75em;">[Quenneville & Sivak 2018, Entropy 20 (9), 707](https://doi.org/10.3390/e20090707)</span>\
 <span style="font-size:0.75em;">Key topics:</span>\
 <span style="font-size:0.75em;"><i>Information Theory, Complexity, Thermodynamic Efficiency</i></span>
@@ -60,11 +60,11 @@ NGC 1453 is a nearby massive elliptical galaxy. It rotates quickly and the rotat
 
 [<img src="/assets/images/entropy.png" width="600">](https://doi.org/10.3390/e20090707)
 
-### Boosted Tree Models for Particle Physics
+### Boosted tree models for particle physics
 <span style="font-size:0.75em;">[Quenneville 2014, CERN Internal Note (not peer-reviewed)](https://cds.cern.ch/record/1951385)</span>\
 <span style="font-size:0.75em;">Key topics:</span>\
 <span style="font-size:0.75em;"><i>Boosting, Decision Trees, Regression, Model Validation, Particle Physics</i></span>
 
-When a Higgs boson decays into a pair of tau leptons, multiple neutrinos are produced. These particles are extremely weakly interacting, and pass through detectors without being detected. Thus, reconstructing the mass of the original Higgs boson is not possible to reconstruct directly from the observed decay products. However, statistical inferences can be made based on the observed decay products. In this report, we describe the use of boosted tree models to reconstruct the Higgs boson mass. This model achieves comparable accuracy to existing models, while requiring a tiny fraction of the computation time.
+When a Higgs boson decays into a pair of tau leptons, multiple neutrinos are among the final decay products. These particles are extremely weakly interacting, and pass through detectors without being detected. Thus, the mass of the original Higgs boson is not possible to reconstruct directly from the observed decay products. However, statistical inferences can be made based on the observed decay products. In this report, we describe the use of boosted tree models to reconstruct the Higgs boson mass. This model achieves comparable accuracy to existing models, while requiring a tiny fraction of the computation time.
 
 [<img src="/assets/images/higgs.png" width="600">](https://cds.cern.ch/record/1951385)
