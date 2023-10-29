@@ -45,7 +45,7 @@ Fully triaxial modelling leads to many complexities that aren't present for axis
 <span style="font-size:0.75em;">Key topics:</span>\
 <span style="font-size:0.75em;"><i>Hyperspectral Image Processing, Inverse Problems, Supermassive black holes</i></span>
 
-NGC 1453 is a nearby massive elliptical galaxy. It rotates quickly and the rotation appears to be nearly aligned with its projected minor axis. This makes it a natural candidate for axisymmetric modelling. We performed axisymmetric modelling of NGC 1453 and found a central black hole about 3 billion times more massive than the sun! We also found that additional constraints are needed in order to make the model's kinematics realistic.
+NGC 1453 is a nearby massive elliptical galaxy. It rotates quickly and the rotation appears to be nearly aligned with its projected minor axis. This makes it a natural candidate for axisymmetric modelling. We processed hyperspectral images of NGC 1453 in order to measure stellar kinematics. We then performed axisymmetric modelling of NGC 1453 and found a central black hole about 3 billion times more massive than the sun. We also found that regularizing constraints are needed in order to make the model's kinematics realistic.
 
 [<img src="/assets/images/NGC1453_axisymmetric.png" width="600">](https://doi.org/10.3847/1538-4357/ab6f71)
 
@@ -56,7 +56,7 @@ NGC 1453 is a nearby massive elliptical galaxy. It rotates quickly and the rotat
 <span style="font-size:0.75em;">Key topics:</span>\
 <span style="font-size:0.75em;"><i>Information Theory, Complexity, Thermodynamic Efficiency</i></span>
 
-NGC 1453 is a nearby massive elliptical galaxy. It rotates quickly and the rotation appears to be nearly aligned with its projected minor axis. This makes it a natural candidate for axisymmetric modelling. We performed axisymmetric modelling of NGC 1453 and found a central black hole about 3 billion times more massive than the sun! We also found that additional constraints are needed in order to make the model's kinematics realistic.
+When a system evolves stochastically under the influence of its environment, the system state become correlated with that of the environment. If the environment exhibits temporal correlations, the system state will also be correlated with future environment state, acting as an implicit predictive model of the environment. The complexity of this model can be quantified through the amount of mutual information between the system and environment that is not predictive of future environment states. This measure of model complexity acts as a lower bound on the thermodynamic heat dissipation, relating model information efficiency and thermodynamic efficiency. In this paper, we explore how this relationship plays out for a simple two-state system within a two-state environment and find a lower-bound on the rate at which the system can learn about its environment in the steady-state limit. 
 
 [<img src="/assets/images/entropy.png" width="600">](https://doi.org/10.3390/e20090707)
 
