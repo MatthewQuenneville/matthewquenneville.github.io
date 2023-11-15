@@ -115,3 +115,6 @@ atom_feed:
 
 lunr:
   search_within_pages: true
+
+# Google Analytics
+google_analytics: G-HS0N5MCV2K
