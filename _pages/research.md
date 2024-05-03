@@ -8,7 +8,7 @@ I'm a data scientist and researcher who is passionate about applying machine lea
 ***
 
 ### Image processing and galaxy scaling relations
-<span style="font-size:0.75em;">[Quenneville et al. 2023, MNRAS stad3137](https://doi.org/10.1093/mnras/stad3137)</span>\
+<span style="font-size:0.75em;">[Quenneville et al. 2024, MNRAS stad3137](https://doi.org/10.1093/mnras/stad3137)</span>\
 <span style="font-size:0.75em;">Key topics:</span>\
 <span style="font-size:0.75em;"><i>Image Processing, Bayesian Inference, Linear Regression, Galaxy Formation</i></span>
 
