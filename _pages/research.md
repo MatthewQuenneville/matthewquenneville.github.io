@@ -3,7 +3,7 @@ permalink: /
 title: "Research Summary"
 ---
 
-I'm a data scientist and researcher who is passionate about applying machine learning and computational methods to novel, impactful questions. My PhD research at UC Berkeley was focused on learning how supermassive black holes have evolved and interacted with their host galaxies over cosmic time. In particular, I was interested in the dynamics of stars within these galaxies, what stellar motions can tell us about the distribution of mass within these galaxies, and how computational and machine learning methods can be used to improve these inferences. 
+I'm a data scientist and researcher who is passionate about applying machine learning and computational methods to quantitative problems. My PhD research at UC Berkeley was focused on learning how supermassive black holes have evolved and interacted with their host galaxies over cosmic time. In particular, I was interested in the dynamics of stars within these galaxies, what stellar motions can tell us about the distribution of mass within these galaxies, and how computational and machine learning methods can be used to improve these inferences. 
 
 ***
 
